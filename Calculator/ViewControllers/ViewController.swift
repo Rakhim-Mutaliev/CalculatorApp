@@ -165,6 +165,7 @@ class ViewController: UIViewController {
         viewsConfigure()
         stackViewConfigure()
         stackViewConstrains()
+        // new
     }
     
 }
